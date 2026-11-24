@@ -1,0 +1,8 @@
+exploreain.si
+Build: v18
+Generated: 2026-11-24 08:35 UTC
+
+This build contains:
+- Galaxy app icon used as the multi-size browser favicon
+- PNG app icon retained for supported browsers and touch icon
+- Website wordmark unchanged

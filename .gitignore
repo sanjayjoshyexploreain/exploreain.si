@@ -1,0 +1,12 @@
+# Build archives
+*.zip
+
+# Local backups and scratch files
+assets.5467/
+nnnnnn/
+nnnnnnnnn/
+play-store-icon.png
+
+# OS files
+.DS_Store
+Thumbs.db
